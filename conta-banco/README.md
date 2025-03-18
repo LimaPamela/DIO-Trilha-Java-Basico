@@ -1,18 +1,19 @@
-## Getting Started
+# DIO - Trilha Java Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[www.dio.me](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
 
-## Folder Structure
+#### Autores
 
-The workspace contains two folders by default, where:
+* [Pamela Lima](https://github.com/LimaPamela)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Exercício operadores
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Crie o programa chamado `BancoTerminal.java` para implementar o algorítmo conforme abaixo:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O programa deverá simular uma operação de saque onde:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Terá uma variável denominada `saldo` do tipo double contendo o valor inicial igual a 25;
+2. Terá uma variável denominada de `valor solicitado` do tipo double contendo o valor inicial igual a 18;
+3. Criar uma expressão relacional para que caso o saldo seja `maior` que o valor solicitado, o saldo recebe o novo valor como saldo é igual saldo menos o valor solicitado. Caso o saldo seja menor que o valor solicitado, devemos exibir a mensagem "Saldo insuficiente";
+4. Imprima o valor do saldo;
+5. Em seguida, realize a mesma execução do programana agora com os valores saldo igual a 15 e valor solicitado igual a 22 e exiba o resultado;
