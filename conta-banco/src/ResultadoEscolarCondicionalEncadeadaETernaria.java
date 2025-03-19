@@ -1,5 +1,4 @@
-//Condicional encadeada e ternária
-public class ResultadoEscolar {
+public class ResultadoEscolarCondicionalEncadeadaETernaria{
     public static void main(String[] args) {
         int nota = 7;
 

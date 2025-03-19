@@ -1,4 +1,4 @@
-public class PlanoOperadora {
+public class PlanoOperadoraSwitchCase {
     public static void main(String[] args) {
         String plano = "T";
 

@@ -1,5 +1,4 @@
-//Switch case
-public class SistemaMedida {
+public class SistemaMedidaSwitchCase {
     public static void main(String[] args) {
         String sigla = "G";
 
